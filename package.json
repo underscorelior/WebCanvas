@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A pixel canvas anyone can draw on",
   "main": "server.js",
+  "homepage": "https://canvas.underscore.wtf",
   "dependencies": {
     "express": "^4.16.4",
     "reload": "^3.2.0",
@@ -28,7 +29,6 @@
   "bugs": {
     "url": "https://github.com/underscorelior/webcanvas/issues"
   },
-  "homepage": "https://github.com/underscorelior/webcanvas#readme",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
